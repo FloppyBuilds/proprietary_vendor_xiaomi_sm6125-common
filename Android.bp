@@ -1624,6 +1624,7 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libgsl",
+                "liblog",
                 "libc++",
                 "libc",
                 "libm",
@@ -1636,6 +1637,7 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libgsl",
+                "liblog",
                 "libc++",
                 "libc",
                 "libm",
